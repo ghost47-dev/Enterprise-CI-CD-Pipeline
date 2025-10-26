@@ -9,6 +9,7 @@ Automatiser le build et les tests d'une application Python via un pipeline CI/CD
 - Pipeline GitHub Actions
 
 ## Structure:
+```
 Enterprise-CI-CD-Pipeline/
 │
 ├── app/
@@ -32,7 +33,7 @@ Enterprise-CI-CD-Pipeline/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Exécution locale
 
